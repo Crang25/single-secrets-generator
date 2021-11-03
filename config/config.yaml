@@ -1,0 +1,7 @@
+
+common:
+  port: 8080
+  host: 127.0.0.1
+
+postgres:
+  database_url: 'postgresql://{user}:{password}@{host}:{port}/{database}'
